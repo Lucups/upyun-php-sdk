@@ -1,3 +1,5 @@
+[Deprecated] 由于 upyun sdk 从 2.2 版本开始支持 composer，本 fork 版本弃用。
+
 # 又拍云PHP SDK
 ![build](https://travis-ci.org/upyun/php-sdk.svg)
 
